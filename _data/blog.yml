@@ -1,0 +1,24 @@
+# blog authors
+authors:
+  - name: "DSA Chapter"
+    headline: # byline? 
+    avatar: #"awesome_author.svg" # display_picture.jpg
+    follow:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/dsachapter/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/dsachapter"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dsachapter/"
+
+# blog post share links
+share:
+  - label: "Facebook"
+    icon: "fab fa-fw fa-facebook"
+    url: # link
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: # link
