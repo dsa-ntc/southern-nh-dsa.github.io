@@ -67,6 +67,7 @@ A handful of files need to be updated to better customize your chapter's webpage
     - `url`
     - `twitter username`
 - `_data/copy.yaml` Update this file with the name and description of your chapter. 
+- `_data/blog.yml` Basic information about the blog authors, in most cases this is the name and social media links of the Chapter.
 - `_data/nav.yml` This file contains both the header and footer bars on the webpage, and will be added to every post or page made in the above section. Example values are provided from DSA National.  
 
 See [the Peninsula DSA's GitHub repo](https://github.com/peninsuladsa-ntc/peninsuladsa-ntc.github.io) for an example website.
