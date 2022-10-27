@@ -3,7 +3,7 @@
 # DSA Chapter In a Box Website Runbook
 
 
-Smaller Chapters and Organizing Committees of the [Democratic Socialists of America](https://www.dsausa.org/) (refered herein as "Chapters" for shorthand), or Chapters without a dedicated internal Tech committee, may lack a web presence outside of Corporate owned Social Media. To assist with this, the [National Tech Committee (NTC)](https://tech.dsausa.org/) has created this runbook to help quickly get chapter webpages up and running with DSA branding.
+Smaller Chapters and Organizing Committees of the [Democratic Socialists of America](https://www.dsausa.org/) (refered herein as "Chapters" for shorthand), or Chapters without a dedicated internal Tech committee, may lack a web presence outside of Corporate owned Social Media. To assist with this, the [National Tech Committee (NTC)](https://tech.dsausa.org/) has created this runbook to help quickly get Chapter webpages up and running with DSA branding.
 
 An example webpage can be viewed at [peninsula.dsachapters.org](https://peninsula.dsachapters.org/) ([source code](https://github.com/peninsuladsa-ntc/peninsuladsa-ntc.github.io)). The tools used to create it consist of:
 
@@ -15,7 +15,7 @@ An example webpage can be viewed at [peninsula.dsachapters.org](https://peninsul
 - [GitHub Pages](https://docs.github.com/en/pages) for hosting the site
     - You can learn more about GitHub Pages at [pages.github.com](https://pages.github.com/) and you will find a detailed walkthrough in [GitHub Docs](https://docs.github.com/en/pages).
 
-You can also opt-in to self-host your site if your chapter has a webserver, this is however out of scope of this document.
+You can also opt-in to self-host your site if your Chapter has a webserver, this is however out of scope of this document.
 
 ## Expectations and Limitations
 
@@ -25,7 +25,7 @@ Jekyll, the base code for this website and this project, is a static website gen
 
 ## Installation
 
-You will need a GitHub account and a GitHub organization for your chapter. While GitHub Pages can be created both on personal and group accounts, it's recommended to make this a Chapter based account to provide additional access if needed.
+You will need a GitHub account and a GitHub organization for your Chapter. While GitHub Pages can be created both on personal and group accounts, it's recommended to make this a Chapter based account to provide additional access if needed.
 
 1. [Create a new organization](https://github.com/organizations/plan) on GitHub. Select the "Create a free organization" option.
 
@@ -59,14 +59,14 @@ You will need a GitHub account and a GitHub organization for your chapter. While
 
 ## Customizing Your Website
 
-A handful of files need to be updated to better customize your chapter's webpage. This can be done directly [through GitHub's interface](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+A handful of files need to be updated to better customize your Chapter's webpage. This can be done directly [through GitHub's interface](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 
 - `_config.yml` Basic information about your Chapter's website. You can start with these:
     - `title`
     - `description`
     - `url`
     - `twitter username`
-- `_data/copy.yaml` Update this file with the name and description of your chapter. 
+- `_data/copy.yaml` Update this file with the name and description of your Chapter. 
 - `_data/blog.yml` Basic information about the blog authors, in most cases this is the name and social media links of the Chapter.
 - `_data/nav.yml` This file contains both the header and footer bars on the webpage, and will be added to every post or page made in the above section. Example values are provided from DSA National.  
 
@@ -75,9 +75,9 @@ See [the Peninsula DSA's GitHub repo](https://github.com/peninsuladsa-ntc/penins
 ## Adding and Editing Content
 
 All pages for this new website are contained in the `_pages` directory. There are several pages created as examples, here are the main ones:
-`404.md` -- Example 404 page which Jekyll will direct any page to if it doesn't otherwise exist, you can customize this further to your chapter's content.
-`about.md` -- A quick about summary of your chapter, why the chapter was formed, how it ties in to the history of your area.
-`blog.md` -- Placeholder for a chapter blog or statements page (which can be renamed and updated as per your chapter's preference). An example of a blog post / chapter statement (contained in `_posts/2021-09-20-ice-statement.md`) is provided to further illustrate how this page can be used to automatically group statements/blogs
+`404.md` -- Example 404 page which Jekyll will direct any page to if it doesn't otherwise exist, you can customize this further to your Chapter's content.
+`about.md` -- A quick about summary of your Chapter, why the Chapter was formed, how it ties in to the history of your area.
+`blog.md` -- Placeholder for a Chapter blog or statements page (which can be renamed and updated as per your Chapter's preference). An example of a blog post / Chapter statement (contained in `_posts/2021-09-20-ice-statement.md`) is provided to further illustrate how this page can be used to automatically group statements/blogs
 `calendar.md` -- A page where you can embed or provide a calendar around events and actions your Chapter is participating in
 `get-involved.md` -- A page where you can provide additional instructions for potential memebers to join your Chapter.
 
