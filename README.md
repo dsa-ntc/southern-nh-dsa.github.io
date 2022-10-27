@@ -92,9 +92,19 @@ TBD, needs to be agreed on but proposed to use chapter.dsausa.org as the backbon
 
 ## For Developers
 
-***TBD***
-
 See [the Jekyll documentation](https://jekyllrb.com/docs/) on how to set up a Jekyll site for local development.
+
+Once Jekyll is installed, you can run the site locally with:
+
+```sh
+bundle exec jekyll serve --livereload
+```
+
+If the site is not automatically updating after content is changed, try:
+
+```sh
+bundle exec jekyll serve --livereload --force-polling
+```
 
 ### Updating the Theme
 
@@ -105,14 +115,6 @@ See [the Jekyll documentation](https://jekyllrb.com/docs/) on how to set up a Je
 
 
 ### Known Issues
-
-**Site not automatically updating after content is changed**
-
-This can happen when the site is running via [WSL](https://learn.microsoft.com/en-us/windows/wsl/). To resolve the issue, use:
-
-```sh
-bundle exec jekyll serve --livereload --force-polling
-```
 
 ***TBD***
 
