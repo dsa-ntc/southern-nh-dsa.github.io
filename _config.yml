@@ -18,17 +18,8 @@ description: "Homepage for our DSA Chapter"
 url: # site url e.g. "https://dsachapter.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: DSA
-twitter:
-  username: dsachapter # should be site's username
-  card: summary
 logo: assets/images/smalllogo.png # PNG is SEO friendly
-# use below when there are social links for site
-#social:
-#  name: Mani Kumar
-#  links:
-#    - https://twitter.com/dsachapter
-#    - https://www.linkedin.com/in/dsachapter/
-#    - https://github.com/dsachapter
+
 # site verifications,
 webmaster_verifications:
   google: # 1234
