@@ -2,7 +2,6 @@
 
 # DSA Chapter In a Box Website Runbook
 
-
 Smaller Chapters and Organizing Committees of the [Democratic Socialists of America](https://www.dsausa.org/) (refered herein as "Chapters" for shorthand), or Chapters without a dedicated internal Tech committee, may lack a web presence outside of Corporate owned Social Media. To assist with this, the [National Tech Committee (NTC)](https://tech.dsausa.org/) has created this runbook to help quickly get Chapter webpages up and running with DSA branding.
 
 An example webpage can be viewed at [peninsula.dsachapters.org](https://peninsula.dsachapters.org/) ([source code](https://github.com/peninsuladsa-ntc/peninsuladsa-ntc.github.io)). The tools used to create it consist of:
@@ -47,11 +46,9 @@ You will need a GitHub account and a GitHub organization for your Chapter. While
 
 ![A view of a new repo page after the repo is created, with the "Import code" button highlighted](readme-assets/import-starter-site.png)
 
-
 6. Use `https://github.com/dsa-chapter-website/dsa-chapter-website.github.io` as "Your old repository's clone URL" and click "Begin import".
 
 ![The next step in the code import process, with an input field prompting for the imported repo URL and a "Begin import" button both highlighted](readme-assets/import-starter-site-begin-import.png)
-
 
 7. Once the import is finished, click your repository link. You will see a link to your new site next to the repository's name on top of the page. Your site's URL will have the format of `https://organization-name.github.io/`.
 
@@ -65,11 +62,10 @@ A handful of files need to be updated to better customize your Chapter's webpage
     - `title`
     - `description`
     - `url`
-- `_data/blog.yml`: Basic information about the blog author
-- `_data/copy.yaml`: The `welcome` is the big text shown in the center of the landing page. The `about` is shown  both below the `welcome` on landing page and in the footer in every page.
-- `_data/nav.yml`: This file contains both the header and footer bars on the webpage, and will be added to every post or page on the site. The header links should change based on the content you have. The footer links likely don't need to change.
-- `_data/owner.yml`: Contains information about the chapter. Currently, only the name is used. It acts as the title in the header and footer of every page.
-- `_data/social.yml`: Contains information for all social media links and contact information.
+    - `twitter username`
+- `_data/copy.yaml` Update this file with the name and description of your Chapter.
+- `_data/blog.yml` Basic information about the blog authors, in most cases this is the name and social media links of the Chapter.
+- `_data/nav.yml` This file contains both the header and footer bars on the webpage, and will be added to every post or page made in the above section. Example values are provided from DSA National.  
 
 See [the Peninsula DSA's GitHub repo](https://github.com/peninsuladsa-ntc/peninsuladsa-ntc.github.io) for an example website.
 
@@ -85,8 +81,6 @@ All pages for this new website are contained in the `_pages` directory. There ar
 To learn more about adding content to your site, please [review the GitHub documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll).
 
 After you commit your changes, you can check your site's Actions page at `https://github.com/organization-name/organization-name.github.io/actions` to see the deployment process status.
-
-
 
 ## Domain Name
 
@@ -110,11 +104,9 @@ bundle exec jekyll serve --livereload --force-polling
 
 ### Updating the Theme
 
-
 [See Jekyll Themes documentation](https://jekyllrb.com/docs/themes/) on working with Jekyll themes.
 
 - `_sass/bootswatch/dist/united/_variables.scss` This controls the variables for colors and font for the webpage, currently defaults are kept and minor changes were made to align to the [DSA style guide](https://design.dsausa.org/national-identity/color-palette/)
-
 
 ### Known Issues
 
@@ -127,6 +119,7 @@ rvm --default use 2.7.2
 
 ## TODO
 
-* Instructions on how to maintain and update pages with GitHub Editor vs Desktop
-* Project website DNS name
-* The `post.html` layout always uses the first author in `blog.yml`, so there cannot be multiple authors. When this is fixed, we'll need to revisit where to store social media info for each of the authors and how it is accessed in `_layouts/post.html`.
+- Instructions on how to maintain and update pages with GitHub Editor vs Desktop
+- Project website DNS name
+- Remove duplicated data like social media account info
+- Trim `_config.yml`
