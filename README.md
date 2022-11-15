@@ -65,10 +65,11 @@ A handful of files need to be updated to better customize your Chapter's webpage
     - `title`
     - `description`
     - `url`
-    - `twitter username`
-- `_data/copy.yaml` Update this file with the name and description of your Chapter. 
-- `_data/blog.yml` Basic information about the blog authors, in most cases this is the name and social media links of the Chapter.
-- `_data/nav.yml` This file contains both the header and footer bars on the webpage, and will be added to every post or page made in the above section. Example values are provided from DSA National.  
+- `_data/blog.yml`: Basic information about the blog author
+- `_data/copy.yaml`: The `welcome` is the big text shown in the center of the landing page. The `about` is shown  both below the `welcome` on landing page and in the footer in every page.
+- `_data/nav.yml`: This file contains both the header and footer bars on the webpage, and will be added to every post or page on the site. The header links should change based on the content you have. The footer links likely don't need to change.
+- `_data/owner.yml`: Contains information about the chapter. Currently, only the name is used. It acts as the title in the header and footer of every page.
+- `_data/social.yml`: Contains information for all social media links and contact information.
 
 See [the Peninsula DSA's GitHub repo](https://github.com/peninsuladsa-ntc/peninsuladsa-ntc.github.io) for an example website.
 
@@ -128,3 +129,4 @@ rvm --default use 2.7.2
 
 * Instructions on how to maintain and update pages with GitHub Editor vs Desktop
 * Project website DNS name
+* The `post.html` layout always uses the first author in `blog.yml`, so there cannot be multiple authors. When this is fixed, we'll need to revisit where to store social media info for each of the authors and how it is accessed in `_layouts/post.html`.
