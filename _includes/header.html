@@ -1,11 +1,11 @@
-{% assign owner = site.data.nav.footer[0] %}
+{% assign owner = site.data.owner %}
 
 <header class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
   <nav class="container">
     <!-- site home -->
     <a class="navbar-brand" href="{{ '/' | absolute_url }}">
       <img class="my-auto mr-2" src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" height="32" width="32">
-      <b>{{ owner.owner }}</b>
+      <b>{{ owner.name }}</b>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
       aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">

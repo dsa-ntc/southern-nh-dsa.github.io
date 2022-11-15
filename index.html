@@ -2,21 +2,19 @@
 layout: default
 ---
 
-{% assign about = site.data.copy.global[0] %}
-{% assign welcome = site.data.copy.global[1] %}
+{% assign about = site.data.copy.global.about %}
+{% assign welcome = site.data.copy.global.welcome %}
 
 <div class="container my-5">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      <h1>{{ welcome.welcome }}</h1>
+      <h1>{{ welcome }}</h1>
       <hr class="large" />
-      <p>{{ about.about }}</p>
+      <p>{{ about }}</p>
       <a href="/about" class="btn btn-secondary">Read More <i class="fa fa-arrow-right"></i></a>
     </div>
     <div class="col-md-6 col-sm-12 text-right">
-	    <a href="/">
       <img src="assets/images/ece-4-all-ssf-volunteers-at-campaign-launch-2022-01-15.jpg" width="90%" height="auto" alt="Dozens of volunteers at the Pre-school for all campaign launch!" />
-	    </a>
     </div>
   </div>
   <div class="row">
