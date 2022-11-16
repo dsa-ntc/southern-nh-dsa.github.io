@@ -108,15 +108,6 @@ bundle exec jekyll serve --livereload --force-polling
 
 - `_sass/bootswatch/dist/united/_variables.scss` This controls the variables for colors and font for the webpage, currently defaults are kept and minor changes were made to align to the [DSA style guide](https://design.dsausa.org/national-identity/color-palette/)
 
-### Known Issues
-
-***TBD***
-
-```sh
-rvm install 2.7.2
-rvm --default use 2.7.2
-```
-
 ## TODO
 
 - Instructions on how to maintain and update pages with GitHub Editor vs Desktop
