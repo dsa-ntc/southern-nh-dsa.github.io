@@ -72,11 +72,11 @@ See [the Peninsula DSA's GitHub repo](https://github.com/peninsuladsa-ntc/penins
 ## Adding and Editing Content
 
 All pages for this new website are contained in the `_pages` directory. There are several pages created as examples, here are the main ones:
-`404.md` -- Example 404 page which Jekyll will direct any page to if it doesn't otherwise exist, you can customize this further to your Chapter's content.
-`about.md` -- A quick about summary of your Chapter, why the Chapter was formed, how it ties in to the history of your area.
-`blog.md` -- Placeholder for a Chapter blog or statements page (which can be renamed and updated as per your Chapter's preference). An example of a blog post / Chapter statement (contained in `_posts/2021-09-20-ice-statement.md`) is provided to further illustrate how this page can be used to automatically group statements/blogs
-`calendar.md` -- A page where you can embed or provide a calendar around events and actions your Chapter is participating in
-`get-involved.md` -- A page where you can provide additional instructions for potential memebers to join your Chapter.
+- `404.md` -- Example 404 page which Jekyll will direct any page to if it doesn't otherwise exist, you can customize this further to your Chapter's content.
+- `about.md` -- A quick about summary of your Chapter, why the Chapter was formed, how it ties in to the history of your area.
+`blog.md` -- Placeholder for a Chapter blog or statements page (which can be renamed and updated as per your Chapter's preference). An example of a blog post / Chapter - statement (contained in `_posts/2021-09-20-ice-statement.md`) is provided to further illustrate how this page can be used to automatically group statements/blogs
+- `calendar.md` -- A page where you can embed or provide a calendar around events and actions your Chapter is participating in
+- `get-involved.md` -- A page where you can provide additional instructions for potential memebers to join your Chapter.
 
 To learn more about adding content to your site, please [review the GitHub documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll).
 
