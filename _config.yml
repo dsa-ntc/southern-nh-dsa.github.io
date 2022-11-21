@@ -130,6 +130,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -140,6 +141,7 @@ whitelist:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # HTML Compression
 # - http://jch.penibelst.de/
