@@ -60,9 +60,8 @@ A handful of files need to be updated to better customize your Chapter's webpage
 
 - `_config.yml` Basic information about your Chapter's website. You can start with these:
     - `title`
-    - `description`
     - `url`
-    - `twitter username`
+- There are more settings in `_config.yml` that will improve the Search Engine Optimization tags Jekyll generates for your pages, but it's okay to leave blank the ones you don't understand.
 - `_data/copy.yaml` Update this file with the name and description of your Chapter.
 - `_data/blog.yml` Basic information about the blog authors, in most cases this is the name and social media links of the Chapter.
 - `_data/nav.yml` This file contains both the header and footer bars on the webpage, and will be added to every post or page made in the above section. Example values are provided from DSA National.  
