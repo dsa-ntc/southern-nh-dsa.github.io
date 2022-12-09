@@ -6,27 +6,56 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the
 # server process.
 
-# theme settings
-# theme: "lone-wolf-theme"
+# Theme Settings
 remote_theme: "manid2/lone-wolf-theme"
-bootswatch_theme: "united" # cerulean, spacelab, united
+bootswatch_theme: "united"
 
-# site settings, follows the order used in jekyll-seo-tag plugin
-lang: "en_US"
+# These settings are always used by Jekyll
 title: "Chapter of Democratic Socialists of America"
-description: "Homepage for our DSA Chapter"
-url: # site url e.g. "https://dsachapter.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-author: DSA
-logo: assets/images/smalllogo.png # PNG is SEO friendly
+url: https://[dsachapter].dsachapters.org
 
-# site verifications,
+# These settings ase used by the jekyll-seo-tag plugin. The plugin adds
+# metadata tags for search engines and social networks to better index and
+# display your site’s content. None of these are necessary, but will make your
+# site more discoverable to others. See this link for more information:
+# https://jekyll.github.io/jekyll-seo-tag/usage/
+# The tagline is used when `page.title` is not defined.
+tagline: "Homepage for our DSA Chapter"
+# The description is used when a page doesn't provide its own description.
+# It will also be used as the page's title tag if neither `page.title` nor
+# `site.tagline` has been defined.
+description: "Homepage for our DSA Chapter"
+author: DSA
+twitter:
+  username: dsachapter
+  # The site's default card type. See this link for more information:
+  # https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards
+  card: summary
+facebook:
+  # A Facebook app ID for Facebook insights: https://www.facebook.com/help/794890670645072/
+  app_id: # 1234
+  # A Facebook page URL or ID of the publishing entity. I don't know what this means.
+  publisher: # 1234
+  # A Facebook user ID for domain insights linked to a personal account. I don't know what this means.
+  admins: # 1234
+logo: assets/images/smalllogo.png # PNG is SEO friendly
+social:
+  name: Chapter of Democratic Socialists of America
+  links:
+    - https://twitter.com/dsachapter
+    - https://www.facebook.com/dsachapter
+    - https://www.instagram.com/dsachapter
+    - https://www.github.com/dsachapter
+# Site verifications
+# I don't understand this yet, but maybe this page is helpful:
+# https://support.google.com/webmasters/answer/9008080?hl=en
 webmaster_verifications:
   google: # 1234
   bing: # 1234
   alexa: # 1234
   yandex: # 1234
   baidu: # 1234
+locale: "en_US"
 
 # comments settings
 comments:
