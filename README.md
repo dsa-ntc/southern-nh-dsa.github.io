@@ -101,6 +101,12 @@ If the site is not automatically updating after content is changed, try:
 bundle exec jekyll serve --livereload --force-polling
 ```
 
+If you're missing any of the dependencies, run:
+
+```sh
+bundle install
+```
+
 ### Updating the Theme
 
 [See Jekyll Themes documentation](https://jekyllrb.com/docs/themes/) on working with Jekyll themes.
