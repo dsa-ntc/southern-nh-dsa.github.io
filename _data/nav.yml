@@ -1,5 +1,16 @@
 # header links
 header:
+  - title: "Our Work"
+    url: "/our-work/"
+    description: "Link to DSA Chapter's Work"
+    subpages:
+      - title: "Working Groups"
+        url: "/working-groups/"
+  - title: "Not a link"
+    description: "Same as Our Work but not a link itself"
+    subpages:
+      - title: "Working Groups"
+        url: "/working-groups/"
   - title: "Statements"
     url: "/blog/"
     description: "Link to DSA Chapter's Chapter Statements"
