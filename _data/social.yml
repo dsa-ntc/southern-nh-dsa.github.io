@@ -1,31 +1,31 @@
 facebook: &facebook
   label: "Facebook"
   icon: "fab fa-fw fa-facebook"
-  url: "https://www.facebook.com/dsachapter/"
-  username: dsachapter
+  url: "https://www.facebook.com/snhdsa/"
+  username: snhdsa
 
 twitter: &twitter
   label: "Twitter"
   icon: "fab fa-fw fa-twitter-square"
-  url: "https://twitter.com/dsachapter"
-  username: dsachapter
+  url: "https://twitter.com/snhdsa"
+  username: snhdsa
 
-instagram: &instagram
-  label: "Instagram"
-  icon: "fab fa-fw fa-instagram"
-  url: "https://www.instagram.com/dsachapter/"
-  username: dsachapter
-
-github: &github
-  label: "GitHub"
-  icon: "fab fa-fw fa-github"
-  url: "https://github.com/dsachapter"
-  username: dsachapter
+#instagram: &instagram
+#  label: "Instagram"
+#  icon: "fab fa-fw fa-instagram"
+#  url: "https://www.instagram.com/dsachapter/"
+#  username: dsachapter
+#
+#github: &github
+#  label: "GitHub"
+#  icon: "fab fa-fw fa-github"
+#  url: "https://github.com/dsachapter"
+#  username: dsachapter
 
 email: &email
   label: "Email"
   icon: "fa fa-envelope"
-  url: "mailto:dsachapter@gmail.com"
+  url: "mailto:southernnhdsa@gmail.com"
 
 # We use the above links in different combinations in 
 # different places in the site. Making lists in the manner

@@ -2,7 +2,7 @@
 header:
   - title: "Our Work"
     url: "/our-work/"
-    description: "Link to DSA Chapter's Work"
+    description: "Link to Southern New Hampshire's Work"
     subpages:
       - title: "Working Groups"
         url: "/working-groups/"
@@ -13,10 +13,10 @@ header:
         url: "/working-groups/"
   - title: "Statements"
     url: "/blog/"
-    description: "Link to DSA Chapter's Chapter Statements"
+    description: "Link to Southern New Hampshire's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what DSA Chapter is working on. Join DSA!"
+    description: "Check out what Southern New Hampshire DSA is working on. Join DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
