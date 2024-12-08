@@ -6,8 +6,8 @@ header:
     subpages:
       - title: "Working Groups"
         url: "/working-groups/"
-  - title: "Not a link"
-    description: "Same as Our Work but not a link itself"
+  - title: "About Us"
+    description: "About how we work and what we believe"
     subpages:
       - title: "Working Groups"
         url: "/working-groups/"
