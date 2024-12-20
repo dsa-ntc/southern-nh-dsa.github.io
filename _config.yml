@@ -38,7 +38,7 @@ facebook:
   publisher: # 1234
   # A Facebook user ID for domain insights linked to a personal account. I don't know what this means.
   admins: # 1234
-logo: assets/images/smalllogo.png # PNG is SEO friendly
+logo: assets/images/dsalogo.png # PNG is SEO friendly
 social:
   name: Southern New Hampshire DSA
   links:
@@ -196,5 +196,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/smalllogo.png
+      image: assets/images/dsalogo.png
       image_alt: Democratic Socialists of America logo
