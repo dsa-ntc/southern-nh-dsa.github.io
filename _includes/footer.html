@@ -20,11 +20,14 @@
                     <!-- Social media links -->
                     <ul class="my-3">
                         {% for so_link in social %}
-                        <li>
+                        <li class="social-item">
                             {% if so_link.url %}
-                            <i class="{{ so_link.icon }}"></i><a href="{{ so_link.url }}">{{ so_link.label }}</a>
+                            <!-- use fixed-width (fw) variants of these icons. -->
+                             <!-- spacing is added to the text element -->
+                            <i class="{{ so_link.icon }} fa-fw fa-beat" style="color: #ec1f27"></i>
+                            <a href="{{ so_link.url }}"> {{ so_link.label }}</a>
                             {% else %}
-                            <strong>{{ so_link.label }}</strong>
+                            <strong> {{ so_link.label }}</strong>
                             {% endif %}
                         </li>
                         {% endfor %}

@@ -24,6 +24,9 @@
 @import "dsa/typescale.scss";
 @import "dsa/buttons.scss";
 
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/brands.scss";
+@import "fontawesome/solid.scss";
 
 @media (min-width: 1200px) {
     .container{
@@ -83,7 +86,7 @@ p {
 ::-webkit-scrollbar {
     width: 8px;
 }
-  
+
 ::-webkit-scrollbar-track {
     background: var(--highlight);
 }
