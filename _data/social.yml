@@ -22,6 +22,11 @@ bluesky: &bluesky
   url: "https://bsky.app/profile/southernnhdsa.bsky.social"
   username: blueskydsa
 
+discord: &discord
+  label: "Discord"
+  icon: "fa-brands fa-discord"
+  url: "https://discord.com/invite/kzPfkhq8DC"
+
 email: &email
   label: "Email"
   icon: "fa-solid fa-envelope"
@@ -33,10 +38,11 @@ email: &email
 
 # This list appears in the footer of every page
 footer:
+  - *discord
   - *facebook
-  - *twitter
   - *instagram
   - *bluesky
+  - *twitter
   - *email
 
 # This list appears in the dropdown of every blog post
