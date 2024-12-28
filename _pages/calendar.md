@@ -14,10 +14,17 @@ permalink: /calendar/
 
       document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
+
         var calendar = new FullCalendar.Calendar(calendarEl, {
           initialView: 'dayGridMonth',
-		  aspectRatio: 2.5
+          footerToolbar: {
+            start: '',
+            center: '',
+            end: 'dayGridMonth,listWeek',
+          },
+		      aspectRatio: 2.5,
         });
+
         calendar.render();
       });
 
