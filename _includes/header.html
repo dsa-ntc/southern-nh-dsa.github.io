@@ -4,49 +4,87 @@
   <nav class="container">
     <!-- site home -->
     <a class="navbar-brand" href="{{ '/' | absolute_url }}">
-      <img class="my-auto mr-2" src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" height="64" width="64">
+      <img
+        class="my-auto mr-2"
+        src="{{ site.logo | relative_url }}"
+        alt="{{ site.title }} logo"
+        width="64"
+      />
       <b>{{ owner.name }}</b>
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
-      aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarColor01"
+      aria-controls="navbarColor01"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav ml-auto">
         <!-- TODO add theme version dropdown here -->
-        {%- for section in site.data.nav.header -%}
-        {%- if section.subpages -%}
+        {%- for section in site.data.nav.header -%} {%- if section.subpages -%}
         <li class="nav-item dropdown">
           <div class="btn-group">
             {%- if section.url -%}
             <a href="{{ section.url }}" class="nav-link">{{ section.title }}</a>
-            <a href="#" role="button" class="nav-link dropdown-toggle dropdown-toggle-split" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
+            <a
+              href="#"
+              role="button"
+              class="nav-link dropdown-toggle dropdown-toggle-split"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
               <span class="sr-only">Toggle Dropdown</span>
             </a>
             {%- else -%}
-            <a class="nav-link dropdown-toggle" href="#" role="button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              role="button"
+              type="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
               {{ section.title }}
             </a>
             {%- endif -%}
             <ul class="dropdown-menu">
               {% for page in section.subpages %}
-              <li><a class="dropdown-item" href="{{ page.url }}">{{ page.title }}</a></li>
+              <li>
+                <a class="dropdown-item" href="{{ page.url }}"
+                  >{{ page.title }}</a
+                >
+              </li>
               {% endfor %}
             </ul>
           </div>
         </li>
         {%- else -%}
         <li class="nav-item">
-          <a class="nav-link" href="{{ section.url }}" {% if section.description %} title="{{ section.description }}" {%
-            endif %}>{{ section.title }}</a>
+          <a
+            class="nav-link"
+            href="{{ section.url }}"
+            {%
+            if
+            section.description
+            %}
+            title="{{ section.description }}"
+            {%
+            endif
+            %}
+            >{{ section.title }}</a
+          >
         </li>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
       </ul>
-      {% if site.search == true %}
-      {%- include search-providers/search_form.html -%}
-      {% endif %}
+      {% if site.search == true %} {%- include search-providers/search_form.html
+      -%} {% endif %}
     </div>
   </nav>
 </header>
