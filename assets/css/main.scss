@@ -24,6 +24,9 @@
 @import "dsa/typescale.scss";
 @import "dsa/buttons.scss";
 
+@import "snh-dsa/blocks.scss";
+
+// Font Awesome Icons for various brands and social medias
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/brands.scss";
 @import "fontawesome/solid.scss";
@@ -35,6 +38,10 @@
 }
 .push {
     height: 300px;
+}
+
+body {
+    // background-color: #faf4eb;
 }
 
 hr {

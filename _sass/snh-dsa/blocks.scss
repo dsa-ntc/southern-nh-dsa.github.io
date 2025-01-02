@@ -1,0 +1,15 @@
+@mixin grid-columns {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10rem;
+    margin: auto 10rem;
+}
+
+.two-columns-container {
+    @include grid-columns;
+}
+
+.text-column {
+    flex: 1;
+    // margin: 2rem;
+}
