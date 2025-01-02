@@ -18,10 +18,16 @@ permalink: /our-work/
   </div> -->
 </div>
 
-<h3 style="margin-left: 10rem;">Supporting Local Labor Unions to Organize</h3>
+<h3 style="margin-left: 10rem;">Helping Local Labor Unions Organize</h3>
 <div class="two-columns-container">
   <div style="flex: 1;">
     <p style="font-size: 1.5rem;">We are currently working with Starbucks Workers United (SBWU) and their locals in the area to fight against the hundreds of unresolved unfair labor practice charges on unionized baristas by Starbucks. SBWU's baristas are fighting to win workplace protections on core issues like respect, living wages, racial and gender equity, and fair scheduling. Stand with them, and donate to their strike fund if you can! </p>
   </div>
-  <div style="flex: 1;"></div>
+  <div style="flex:1;">
+    <img
+      src="/assets/images/sbwu-logo.png"
+      alt="Starbucks Workers United logo"
+      width="430"
+      >
+  </div>
 <div>
