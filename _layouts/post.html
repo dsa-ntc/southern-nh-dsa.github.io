@@ -17,14 +17,14 @@ layout: default
   {% endcapture %}
 {% endif %}
 
-{% assign blog_author = site.data.blog.authors[0] %}
-{% capture bl_au_avatar %}
-{{ '/assets/images/' | relative_url | append: blog_author.avatar }}
-{% endcapture %}
-
-{% capture bl_au_av_alt %}
-{{ blog_author.name }} avatar.
-{% endcapture %}
+{% if page.blog_author %}
+  {% assign blog_author = site.data.blog.authors | where: "name", page.blog_author | first %}
+  {% if blog_author == null %}
+    {% assign blog_author = page.blog_author %}
+  {% endif %}
+{% else %}
+  {% assign blog_author = site.data.blog.authors[0] %}
+{% endif %}
 
 <section class="container mt-3 blog-post">
   <div class="row">
@@ -52,9 +52,11 @@ layout: default
         class="row align-items-center py-2 border-top border-bottom blog-post-author"
       >
         <div class="col pr-0 pb-1">
-          <p class="blog-post-author-name p-0 m-0">{{ blog_author.name }}</p>
+          <p class="blog-post-author-name p-0 m-0">
+            {{ blog_author.name | default: blog_author }}
+          </p>
           <p class="blog-post-author-headline p-0 m-0">
-            {{ blog_author.headline }}
+            {{ blog_author.headline | default: '' }}
           </p>
         </div>
         <div class="col-auto justify-content-end blog-post-author-follow">
