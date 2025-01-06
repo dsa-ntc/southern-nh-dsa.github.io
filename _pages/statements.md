@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Blog"
-permalink: /blog/
+title: "Statements and Articles"
+permalink: /statements/
 ---
 
-Recent statements and articles by DSA Chapter.
+Recent statements and articles by Southern NH DSA.
 
 <div class="row my-5">
   {% for post in site.posts %}
