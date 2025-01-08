@@ -1,15 +1,32 @@
-@mixin grid-columns {
-    display: flex;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 10rem;
-    margin: auto 10rem;
+.two-columns {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.two-columns-container {
-    @include grid-columns;
+.two-columns > * {
+  width: 100%;
+  padding: 1rem;
 }
 
-.text-column {
-    flex: 1;
-    // margin: 2rem;
+.two-columns > div > p {
+  font-size: 1.5rem;
+}
+
+// the two following rules are for images in a column, if an image needs to
+// be resized, specify it in the style of the div that contains the image.
+.column-image-cnt {
+  display: inline-block;
+  max-width: 460px;
+}
+
+.column-image-cnt img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* tablet breakpoint */
+@media (min-width: 768px) {
+  .two-columns > * {
+    width: 50%;
+  }
 }
