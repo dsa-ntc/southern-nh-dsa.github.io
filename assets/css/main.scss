@@ -18,7 +18,6 @@
 // Import the ManifoldDSA Font
 @import "fonts/manifolddsa.scss";
 
-
 // DSA Related
 @import "dsa/colors.scss";
 @import "dsa/typescale.scss";
@@ -33,84 +32,81 @@
 @import "fontawesome/solid.scss";
 
 @media (min-width: 1200px) {
-    .container{
-        max-width: 1600px;
-    }
-}
-.push {
-    height: 300px;
+  .container {
+    max-width: 1600px;
+  }
 }
 
-body {
-    // background-color: #faf4eb;
+.push {
+  height: 300px;
 }
 
 hr {
-    .large {
-        border-top: 8px solid var(--black);
-    }
+  .large {
+    border-top: 8px solid var(--black);
+  }
 
-    .medium {
-        border-top: 4px solid var(--black);
-    }
+  .medium {
+    border-top: 4px solid var(--black);
+  }
 
-    .small {
-        border-top: 2px solid var(--black-tint-2);
-    }
+  .small {
+    border-top: 2px solid var(--black-tint-2);
+  }
 }
 
 ul {
-    list-style-type: none;
-    line-height: 200%;
+  list-style-type: none;
+  line-height: 200%;
 
-    svg {
-        color: var(--red);
-        margin-right: 5px;
+  svg {
+    color: var(--red);
+    margin-right: 5px;
+  }
+
+  a {
+    color: var(--black-tint-1);
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: none;
     }
-
-    a {
-        color: var(--black-tint-1);
-        font-weight: bold;
-
-        &:hover {
-            text-decoration: none;
-        }
-    }
+  }
 }
 
 p {
-    line-height: 200%;
+  line-height: 200%;
 }
 
 .page-footer-copyright {
-    background: var(--red);
+  background: var(--red);
 }
 
 .page-footer-owner {
-    background: var(--highlight);
-    color: inherit;
+  background: var(--highlight);
+  color: inherit;
 }
 
 ::-webkit-scrollbar {
-    width: 8px;
+  width: 8px;
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--highlight);
+  background: var(--highlight);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--red-tint-2);
+  background: var(--red-tint-2);
 }
 
 .article-link {
-    font-size: var(--size-lg);
-    text-decoration: underline;
-    color: var(--black-tint-1);
+  font-size: var(--size-lg);
+  text-decoration: underline;
+  color: var(--black-tint-1);
 }
 
 .dsa-box {
-    border: 1px solid var(--black-tint-4);
-    padding: 10px;
-    margin-bottom: 10px;
+  border: 1px solid var(--black-tint-4);
+  padding: 10px;
+  margin-bottom: 10px;
 }
