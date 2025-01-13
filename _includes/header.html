@@ -92,9 +92,12 @@
       -%} {% endif %}
     </div>
     <div id="header-socials">
-      {% for so_link in social %} {% if so_link.url %}
+      {% for so_link in social %}{% if so_link.url %}
       <a href="{{ so_link.url }}">
-        <i class="{{ so_link.icon }} fa-fw fa-2xl" style="color: white"></i>
+        <i
+          class="{{ so_link.icon }} fa-fw fa-2xl hover-bounce"
+          style="color: white"
+        ></i>
       </a>
       {% else %} {% endif %} {% endfor %}
     </div>
