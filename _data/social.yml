@@ -36,6 +36,12 @@ email: &email
 # different places in the site. Making lists in the manner
 # below allows us to define the above strings once.
 
+header:
+  - *discord
+  - *facebook
+  - *instagram
+  - *bluesky
+
 # This list appears in the footer of every page
 footer:
   - *discord
