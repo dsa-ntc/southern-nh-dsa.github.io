@@ -20,6 +20,11 @@
     --facebook: #4267B2;
 }
 
+// change the default navigation color to white
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
 .text-red {
     color: var(--red);
 }
