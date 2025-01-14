@@ -5,15 +5,15 @@
 <header class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
   <nav class="container">
     <!-- site home -->
-    <a class="navbar-brand title" href="{{ '/' | absolute_url }}">
+    <a class="navbar-brand" href="{{ '/' | absolute_url }}">
       <img
         class="my-auto mr-2"
         src="{{ site.logo | relative_url }}"
         alt="{{ site.title }} logo"
         width="64"
       />
-      <b>{{ owner.name }}</b>
     </a>
+    <b class="navbar-brand title">{{ owner.name }}</b>
     <button
       class="navbar-toggler"
       type="button"
