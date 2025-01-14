@@ -77,10 +77,10 @@ google:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "custom"
+  provider: google-gtag # false (default), "google-gtag"
   google:
-    tracking_id:
-    anonymize_ip: # true, false (default)
+    tracking_id: G-QKJYWYTY29
+    anonymize_ip: false # true, false (default)
 
 # Reading Files
 include:
