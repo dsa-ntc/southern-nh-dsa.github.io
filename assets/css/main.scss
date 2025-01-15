@@ -16,8 +16,12 @@
 // import custom variables and mixins to extend BS4
 @import "lone-wolf-theme";
 
-// Import the ManifoldDSA Font
+// Import fonts
+// manifold is the official dsa font
 @import "fonts/manifolddsa.scss";
+// alfa slab one is used for the join button
+@import "fonts/alfaslabone.scss";
+
 
 // DSA Related
 @import "dsa/colors.scss";

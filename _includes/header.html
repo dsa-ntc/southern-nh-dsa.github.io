@@ -88,10 +88,19 @@
         </li>
         {%- endif -%} {%- endfor -%}
       </ul>
+      <div class="join-button-container">
+        <a
+          class="join-button"
+          href="{{ site.data.nav.join.url | absolute_url }}"
+          target="_blank"
+          title="{{ site.data.nav.join.title }}"
+          >{{ site.data.nav.join.title }}</a
+        >
+      </div>
       {% if site.search == true %} {%- include search-providers/search_form.html
       -%} {% endif %}
     </div>
-    <div id="header-socials">
+    <div class="header-socials">
       {% for so_link in social %}{% if so_link.url %}
       <a href="{{ so_link.url }}">
         <i

@@ -18,6 +18,10 @@ header:
     url: "/get-involved/"
     description: "Check out what Southern New Hampshire DSA is working on. Join DSA!"
 
+join:
+  title: "JOIN US"
+  url: "https://act.dsausa.org/donate/membership/"
+  description: "Join DSA!"
 
 # footer links
 footer:

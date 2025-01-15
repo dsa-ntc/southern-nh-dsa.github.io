@@ -1,3 +1,36 @@
+@media screen and (max-width: 990px) {
+  .join-button-container {
+    margin-bottom: 1rem;
+  }
+}
+
+@media screen and (max-width: 1294px) {
+  .header-socials {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 0.5rem;
+    margin-left: 1rem;
+  }
+}
+
+.join-button {
+  background-color: white;
+  color: black;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  font-family: Alfa Slab One;
+  font-size: var(--size-sm);
+  padding: 0.25rem 0.5rem;
+  width: 7.333rem;
+}
+
+.join-button:hover {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+
 .hover-bounce:hover {
   animation-name: fa-bounce;
   animation-duration: 1s;
