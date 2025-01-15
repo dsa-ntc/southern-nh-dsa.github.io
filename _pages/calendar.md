@@ -22,13 +22,15 @@ permalink: /calendar/
             center: '',
             end: 'dayGridMonth,listWeek',
           },
-		      aspectRatio: 2.5,
+    	    aspectRatio: 2.5,
+          height: "auto"
         });
 
         calendar.render();
       });
 
     </script>
+
   </head>
   <body>
     <div id='calendar'></div>
