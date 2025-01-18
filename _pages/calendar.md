@@ -9,7 +9,8 @@ permalink: /calendar/
 <html lang='en'>
   <head>
     <meta charset='utf-8' />
-    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
+    <script src='/assets/fullcalendar-6.1.15/dist/index.global.js'></script>
+    <script src='/assets/fullcalendar-6.1.15/packages/google-calendar/index.global.js'></script>
     <script>
 
       document.addEventListener('DOMContentLoaded', function() {
@@ -23,7 +24,11 @@ permalink: /calendar/
             end: 'dayGridMonth,listWeek',
           },
     	    aspectRatio: 2.5,
-          height: "auto"
+          height: "auto",
+          googleCalendarApiKey: "{{ site.google.calendar.api_key }}",
+          events: {
+            googleCalendarId: '23a7d9803d27c7e98215e420fd4f8e5e62f4a017673c1a3d3b940801b0c27ec7@group.calendar.google.com'
+          }
         });
 
         calendar.render();

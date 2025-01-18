@@ -72,6 +72,8 @@ search_full_content: # true, false (default)
 search_provider: # google
 
 google:
+  calendar:
+    api_key: AIzaSyC4kh0KFcKcZinWl48TfJ5i2EDABPNoPa4
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 
