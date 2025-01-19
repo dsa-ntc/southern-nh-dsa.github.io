@@ -1,8 +1,25 @@
+<!-- prettier-ignore -->
 {%- assign share_title = "Share on" -%}
 {%- assign twitter = site.data.social.twitter -%}
+{%- assign bluesky = site.data.social.bluesky -%}
 
 <div class="my-3">
-    <h5 class="m-0 p-0">{{ share_title }}</h5>
-    <hr />
-    <a class="text-twitter mr-3 p-0" href="https://twitter.com/intent/tweet?{% if twitter.username %}via={{ twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ share_title }} Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <h5 class="m-0 p-0">{{ share_title }}</h5>
+  <hr />
+  <a
+    class="text-twitter mr-3 p-0"
+    href="https://twitter.com/intent/tweet?{% if twitter.username %}via={{ twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"
+    onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="{{ share_title }} Twitter"
+    ><i class="fa-brands fa-fw fa-twitter" aria-hidden="true"></i
+    ><span> Twitter</span></a
+  >
+  <a
+    class="text-bluesky mr-3 p-0"
+    href="https://bsky.app/intent/compose?{% if twitter.username %}via={{ twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"
+    onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="{{ share_title }} Bluesky"
+    ><i class="fa-brands fa-fw fa-bluesky" aria-hidden="true"></i
+    ><span> Bluesky</span></a
+  >
 </div>

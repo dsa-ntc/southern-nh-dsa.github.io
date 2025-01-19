@@ -18,6 +18,7 @@
     --discord: #5865F2;
     --linkedin: #2867B2;
     --facebook: #4267B2;
+    --bluesky: #0886fe;
 }
 
 // change the default navigation color to white
@@ -120,6 +121,10 @@
 
 .text-linkedin {
     color: var(--linkedin);
+}
+
+.text-bluesky {
+    color: var(--bluesky);
 }
 
 .bg-twitter {
