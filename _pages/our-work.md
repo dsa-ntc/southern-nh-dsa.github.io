@@ -13,10 +13,9 @@ permalink: /our-work/
       The Nashua Free Store is up and running! We run every Sunday from 3-4pm by the Nashua Public Library near the main parking lot. Donate items such as clothing, food, hand warmers toiletries, hygiene products, tents, and sleeping bags. You can leave items at our drop boxes at <a href="https://maps.app.goo.gl/eNwZFLw8yF3F2h1M7">Coffee and Kindness</a> and <a href="https://maps.app.goo.gl/qceu2BrW4uZyBKmF6">Tangled Roots</a> on West Pearl Street. A free store is a pop up space where people can take what they need at no-cost! Everyone is welcome to the store, and there are no barriers to entry.
     </p>
   </div>
-  <!-- TODO: enable the following once social sponsorship is approved -->
-  <!-- <div>
+  <div>
       <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/nashua-free-store-fundraising?language=en-us" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important" allow="payment"></iframe>
-  </div> -->
+  </div>
 </div>
 
 <h3>Trans Clothing Swap</h3>
