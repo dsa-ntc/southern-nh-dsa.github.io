@@ -15,4 +15,3 @@ Recent statements and articles by Southern NH DSA.
     </div>
   {% endfor %}
 </div>
-
