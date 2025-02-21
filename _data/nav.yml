@@ -8,6 +8,8 @@ header:
         description: "Link to Southern New Hampshire's Work"
       - title: "Working Groups"
         url: "/working-groups/"
+      - title: "Chapter Bylaws"
+        url: "/bylaws/"
   - title: "Statements"
     url: "/statements/"
     description: "Link to Southern New Hampshire's Chapter Statements"
