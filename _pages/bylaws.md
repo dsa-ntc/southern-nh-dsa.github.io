@@ -27,7 +27,7 @@ permalink: /bylaws/
 
 **Section 5a.** Members may be expelled from SNH DSA if they are found to be in substantial disagreement with the principles of democratic socialism, or if they are found to be engaging in undemocratic or disruptive behavior, or found to be consistently operating in bad faith within SNH DSA.
 
-**Section 5b.** For this expulsion process to begin, a0 SNH DSA member must bring written charges to the SNH DSA HGO, who will follow the procedures listed per [DSA National Resolution 33](https://www.dsausa.org/about-us/harassment-policy-resolution-33/). If the HGO determines the allegations valid, the HGO will notify the Steering Committee. The investigation  shall take no longer than two weeks, and the member in question shall be allowed to receive a copy of the written charges, and allowed to present their case to the steering committee at an ad-hoc meeting at the conclusion of the investigation.
+**Section 5b.** For this expulsion process to begin, a SNH DSA member must bring written charges to the SNH DSA HGO, who will follow the procedures listed per [DSA National Resolution 33](https://www.dsausa.org/about-us/harassment-policy-resolution-33/). If the HGO determines the allegations valid, the HGO will notify the Steering Committee. The investigation  shall take no longer than two weeks, and the member in question shall be allowed to receive a copy of the written charges, and allowed to present their case to the steering committee at an ad-hoc meeting at the conclusion of the investigation.
 
 **Section 5c.** At the end of the investigative period the members of the  steering committee may vote to expel the member by a ⅔ vote.
 
