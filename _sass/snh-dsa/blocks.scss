@@ -1,14 +1,10 @@
 .two-columns {
   display: flex;
   flex-wrap: wrap;
-  // the following lines add margins between the text and the edge of the page.
-  max-width:80%;
-  margin: auto;
 }
 
 .two-columns > * {
   width: 100%;
-  padding: 3rem;
 }
 
 // the two following rules are for images in a column, if an image needs to
