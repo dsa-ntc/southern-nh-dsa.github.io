@@ -94,7 +94,7 @@ doctor when you are gender non-conforming. In the last years of her life, Leslie
 a blog focused upon the experience of being disabled and how it intersected with
 class, as well as centering disability art.
 
-<h2 id="magnus-hirshfield">Magnus Hirshfeld</h2>
+<h2 id="magnus-hirshfield">Magnus Hirshfield</h2>
 With his birth in 1868, Magnus Hirshfeld is one of the earliest advocates of gay and
 transgender rights in recorded history. A doctor in Germany both during and after the
 First World War, Hirschfeld was the founder of the Scientific-Humanitarian Committee,
