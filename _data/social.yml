@@ -25,7 +25,7 @@ bluesky: &bluesky
 discord: &discord
   label: "Discord"
   icon: "fa-brands fa-discord"
-  url: "https://discord.gg/kapSFgmxnX"
+  url: "https://discord.gg/WpSQ332f"
 
 email: &email
   label: "Email"
