@@ -179,7 +179,7 @@ have easier access to the care we need as well as the beautiful sexuality-divers
 community we’ve come to be known for. We really were lucky to have him in our lives
 and we encourage all to give him his long deserved flowers.
 
-<h2 id="leslie-feinberg">Lou Sullivan</h2>
+<h2 id="cece-mcdonald">CeCe Mcdonald</h2>
 Born in May of 1989, CeCe Mcdonald is a black trans woman, convicted killer, LGBTQ
 activist and prison abolitionist. In June of 2011, in Minneapolis, she was involved
 in a racist and transphobic-driven altercation with Dean Schmitz. The incident
