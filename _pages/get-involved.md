@@ -7,7 +7,7 @@ permalink: /get-involved/
 <h2>Join DSA!</h2>
 <div class="two-columns">
   <div>
-    <p> Want to learn more? You can sign up to our mailing list on the right or join our <a href="https://discord.com/invite/WpSQ332f">Discord server</a> where you're able to talk with local organizers!</p>
+    <p> Want to learn more? You can sign up to our mailing list on the right or join our <a href="https://discord.gg/kn6mqW2Gff">Discord server</a> where you're able to talk with local organizers!</p>
     <p> <b><a href="https://act.dsausa.org/donate/membership/">If you are ready to organize with Southern NH DSA, the first step is to join National DSA.</a></b> Pay your dues through national (select monthly, and pay what you can) and join 70,000+ members in the struggle for a better world. No one will be turned away for lack of funds–anyone who wants to join but cannot afford to contribute financially should complete this <a href="https://act.dsausa.org/survey/dueswaiver/">dues waiver form</a>. </p>
     <p> If you intend to become a member of the SNHDSA chapter, please also reach out to us via email, southernnhdsa@gmail.com you can forward your dues payment receipt from National if you already have it. We'll help you get onboarded and organizing! </p>
 

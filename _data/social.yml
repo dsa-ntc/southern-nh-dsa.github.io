@@ -4,11 +4,12 @@ facebook: &facebook
   url: "https://www.facebook.com/snhdsa/"
   username: snhdsa
 
-twitter: &twitter
-  label: "Twitter"
-  icon: "fa-brands fa-twitter-square"
-  url: "https://twitter.com/snhdsa"
-  username: snhdsa
+# no longer used
+# twitter: &twitter
+#   label: "Twitter"
+#   icon: "fa-brands fa-twitter-square"
+#   url: "https://twitter.com/snhdsa"
+#   username: snhdsa
 
 instagram: &instagram
  label: "Instagram"
@@ -25,12 +26,12 @@ bluesky: &bluesky
 discord: &discord
   label: "Discord"
   icon: "fa-brands fa-discord"
-  url: "https://discord.gg/WpSQ332f"
+  url: "https://discord.gg/kn6mqW2Gff"
 
 email: &email
   label: "Email"
   icon: "fa-solid fa-envelope"
-  url: "mailto:southernnhdsa@gmail.com"
+  url: "mailto:southernnhdsa@proton.me"
 
 # We use the above links in different combinations in
 # different places in the site. Making lists in the manner
@@ -48,17 +49,17 @@ footer:
   - *facebook
   - *instagram
   - *bluesky
-  - *twitter
+  # - *twitter
   - *email
 
 # This list appears in the dropdown of every blog post
 follow:
   - *facebook
-  - *twitter
+  # - *twitter
   - *instagram
   - *bluesky
 
 # I don't see where this gets used yet
 share:
   - *facebook
-  - *twitter
+  # - *twitter
