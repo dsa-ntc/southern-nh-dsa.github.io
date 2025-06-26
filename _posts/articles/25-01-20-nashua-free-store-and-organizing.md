@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Nashua Free Store and What it Means to Get Organized"
+title: "The Nashua Free Store and what it means to get organized"
 blog_author: "David V"
 permalink: statements/nashua-free-store-and-organizing/
 tags: Nashua, free store, organize, mutual aid

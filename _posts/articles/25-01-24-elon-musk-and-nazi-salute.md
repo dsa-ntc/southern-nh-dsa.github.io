@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elon Musk And The History of The Nazi Salute"
+title: "Elon Musk and the history of the nazi salute"
 blog_author: Daniel Silva
 permalink: statements/elon-musk-nazi-salute/
 tags: Elon Musk Nazi salute fascism history
