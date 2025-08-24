@@ -47,7 +47,7 @@ permalink: /bylaws/
 
 ### Article V. Officers and Elections
 
-**Section 1.** SNH DSA members shall elect three (3) chapter officers, following Article 4, Section 2 of these bylaws. These officers shall consist of one chair, one (1) secretary, and one (1) treasurer. These members shall make up the steering committee of SNH DSA which shall consist of three (3) SNH DSA members in good standing, elected at the Annual meeting, with a term that expires at the beginning of the next Annual meeting. Nominations for chapter officers shall be received by the outgoing steering committee no sooner than four (4) weeks and no later than two (2) weeks before an annual meeting. Members shall either be nominated for chapter officer position by an SNH DSA member in good standing, or by themselves if they are an SNH DSA member in good standing. Upon receipt of a nomination request the outgoing steering committee must solicit the chapter membership for at least one (1) other member in good standing to endorse the nomination, after which the candidate shall be added to the ballot at the following annual meeting.
+**Section 1.** SNH DSA members shall elect three (3) chapter officers, following Article 4, Section 2 of these bylaws. These officers shall consist of one chair, one (1) secretary, and one (1) treasurer. The Steering Committee shall be considered a committee of equals with no individual member having final say over chapter decisions. These members shall make up the steering committee of SNH DSA which shall consist of three (3) SNH DSA members in good standing, elected at the Annual meeting, with a term that expires at the beginning of the next Annual meeting. Nominations for chapter officers shall be received by the outgoing steering committee no sooner than four (4) weeks and no later than two (2) weeks before an annual meeting. Members shall either be nominated for chapter officer position by an SNH DSA member in good standing, or by themselves if they are an SNH DSA member in good standing. Upon receipt of a nomination request the outgoing steering committee must solicit the chapter membership for at least one (1) other member in good standing to endorse the nomination, after which the candidate shall be added to the ballot at the following annual meeting.
 
 **Section 2.** All SNH DSA officers shall adhere to the conflict of interest policy outlined in the national DSA Code of Conduct Section C, Item 3.
 
@@ -57,7 +57,7 @@ permalink: /bylaws/
 a) to preside over steering committee meetings,
 b) chair working committees where chairperson vacancies exist or when the committee becomes defunct pursuant to Article IV Section 3,
 c) coordinating over the day-to-day work and operation of SNH DSA branches and committees,
-d) fostering and maintaining relationships with comrade organizations.
+d) acts as primary, though not exclusive, spokesperson on behalf of the chapter to maintain relationships with other organizations in a capacity compliant with the democratic processes of the Southern New Hampshire DSA
 
 **Section 5.** The responsibilities of the secretary shall be:
 a) answering all correspondence and queries made within the membership of SNH DSA,
@@ -92,6 +92,8 @@ f) establishing a trustee of the funds.
 **Section 4.** Other committees not enumerated here may be formed by majority vote of the steering committee. Such committees shall be chaired by SNH DSA members in good standing appointed by the Steering Committee via majority vote. Committees formed in this way must conduct monthly meetings as detailed in Article 4 Section 3. The committee chair is responsible for outlining goals and projects for their committee, submitted to and approved by the Steering Committee.
 
 **Section 5.** In the event of malfeasance or nonfeasance of committee members, SNH DSA committee members may have their appointments revoked by a ⅔ majority vote of the steering committee. The steering committee must provide a written reasoning for any such committee member removal to the chapter when their decision is announced. Removed committee members may also be allowed to present their case to the chapter at the first general meeting following their removal, and may overturn the steering committee’s decision by a majority vote of general membership.
+
+**Section 6:** The steering committee being the ex-officio presiding officers over the respective committees (chairperson for communications committee, secretary for membership committee, and treasurer for fundraising committee) shall have the authority to delegate the position of committee chair for their respective committee to a member in good standing provided the following conditions are met: A) that the work of the committee can be reasonably expected to continue as normal, and B) that the ex-officio presiding officer is able to provide adequate oversight to the committee and step in when necessary.”
 
 ## Article VII. Rules
 
