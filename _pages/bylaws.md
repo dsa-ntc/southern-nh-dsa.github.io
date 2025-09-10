@@ -92,6 +92,7 @@ Committees may submit requests for anonymized member data to the Steering Commit
 Additional privileges, such as access to social media, phonebank, and textbank lists, are subject to approval by the Steering Committee and may be revoked.
 Committees inactive for at least three (3) consecutive months shall be considered defunct. If a Committee is found to be defunct, the Steering Committee will schedule a vote for dissolution at the next available General Meeting and notify the General Membership.
 If the Steering Committee finds that a Committee has failed to conduct its internal affairs according to SNH DSA bylaws or to have acted in violation of formally adopted resolutions or policies of SNH DSA, the Steering Committee may vote to suspend all officially sanctioned meetings, operations, and/or business of the Committee until the next General Meeting, at which point General Membership will vote on the question of dissolving the Committee.
+
 **Section 2.1 Committee Leadership**
 All Committee chairs will be appointed by the Steering Committee, unless the General Body motions to override the Steering appointment by two-thirds (2/3) vote, and presents an alternative candidate that has been identified as the preferred choice.
 All appointees are subject to a term which ends at the next scheduled Annual Meeting.
@@ -99,6 +100,7 @@ Committees will be led by at least one (1) chair while Committee membership does
 Committees will be led by no more than two (2) Committee Co-Chairs while Committee membership does surpass twelve (12) active members.
 Committees shall also elect one (1) Committee Secretary from among their membership by majority vote.
 In the event that a Committee Chair or Co-Chair vacates their position, the Steering Committee, in consultation with the Committee membership, will appoint a replacement to fill the vacancy within one (1) month; unless the General Body motions to override the Steering appointment by two-thirds (2/3) vote, and presents an alternative candidate that has been identified as the preferred choice who will also fill the vacancy within one (1) month.
+
 **Section 2.2 Ex-Officio Presiding Officers**
 The Steering Committee should take an active role in Internal Bodies, and reserves the right to Chair the three (3) following Working Committees;
 The Fundraising Committee shall consist of the SNH DSA Treasurer, serving as Ex-Officio Presiding Officer, as well as SNH DSA members. The Fundraising Committee shall be responsible for assisting the Treasurer in their preparation of the annual budget, financial record-keeping, proposing amendments to the SNH DSA fiscal policy, and assisting the Treasurer in the preparation of tax filing. The Fundraising Committee shall also nominate one (1) member, who is not the Treasurer to serve as Trustee of the Funds who will be allowed access to the SNH DSA bank account in the event that the Treasurer is unable to do so. The nomination of the Trustee of the Funds shall be approved by the Steering Committee by majority vote.
