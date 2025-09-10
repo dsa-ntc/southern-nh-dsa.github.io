@@ -108,6 +108,7 @@ The Ex-Officio Presiding Officers shall have the authority to delegate the posit
 A) that the work of the committee can be reasonably expected to continue as normal, and 
 B) that the Ex-Officio Presiding Officer is able to provide adequate oversight to the committee and step in when necessary.
 If a Presiding Officer is found to be in violation of these agreed upon standards and responsibilities, and does not appoint a member in good standing to the Committee Chair position, through a two-thirds (2/3) vote the Steering Committee can simultaneously recall the Ex-Officio Presiding Officer from their respective Committee Chair position, and appoint a new Committee Chair.
+
 **Section 2.3 Annual Reestablishment**
 Working Committees not enumerated in these bylaws, will be reestablished by majority vote at each Annual Meeting.
 
