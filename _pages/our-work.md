@@ -31,7 +31,7 @@ In April, budget commercial passenger airline Avelo Airlines announced taking a 
 Southern New Hampshire DSA fully supports the Avelo Boycott and calls on Avelo Airlines to end their dirty ICE contract, and all public and private partners of the airline to end their partnerships with Avelo until they do so. This includes municipalities, corporations, universities, unions, and more! Avelo operates out of Manchester-Boston regional airport. They are using your airfare to target your neighbors. Every dollar spent on Avelo by people in New Hampshire goes directly back to hurting our community.
 
 Join us in calling on Avelo airlines to end the contract! Sign our petition to show your support as a resident and community member in New Hampshire that you will not stand for Avelo as they help split apart families, terrorize our communities, and do Trump’s dirty work!
-Sign here: <a href="url">https://actionnetwork.org/petitions/new-hampshire-says-boycott-avelo/</a>
+Sign here: <a href="actionnetwork.org/petitions/new-hampshire-says-boycott-avelo">BOYCOTT AVELO</a>
  </p>
   </div>
   <div class="column-image-cnt">
