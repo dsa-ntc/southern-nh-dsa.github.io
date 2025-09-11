@@ -23,6 +23,26 @@ permalink: /our-work/
 
 <div class="two-columns">
   <div>
+    <h3>Boycott Avelo Airlines!</h3>
+    <p>NO FLIGHTS FOR DEPORTATION!
+
+In April, budget commercial passenger airline Avelo Airlines announced taking a $150 million contract to fly deportation flights for ICE out of the Mesa Gateway Airport in Arizona. Days later, the New Haven Immigrants Coalition launched a public campaign, viral petition, and boycott of Avelo Airlines in a series of pickets at the terminal of Tweed-New Haven Regional Airport, the airline’s largest passenger hub. The campaign has gained tremendous support locally including from a majority of the New Haven City Council and the Connecticut Attorney General, and the coalition is working to strip Avelo of state and city subsidies until it cuts the contract with ICE.
+
+Southern New Hampshire DSA fully supports the Avelo Boycott and calls on Avelo Airlines to end their dirty ICE contract, and all public and private partners of the airline to end their partnerships with Avelo until they do so. This includes municipalities, corporations, universities, unions, and more! Avelo operates out of Manchester-Boston regional airport. They are using your airfare to target your neighbors. Every dollar spent on Avelo by people in New Hampshire goes directly back to hurting our community.
+
+Join us in calling on Avelo airlines to end the contract! Sign our petition to show your support as a resident and community member in New Hampshire that you will not stand for Avelo as they help split apart families, terrorize our communities, and do Trump’s dirty work!
+Sign here: <a href="url">https://actionnetwork.org/petitions/new-hampshire-says-boycott-avelo/</a>
+ </p>
+  </div>
+  <div class="column-image-cnt">
+    <img
+    >
+  </div>
+</div>
+
+
+<div class="two-columns">
+  <div>
     <h3>Helping Local Labor Unions Organize</h3>
     <p>We are currently working with Starbucks Workers United (SBWU) and their locals in the area to fight against the hundreds of unresolved unfair labor practice charges on unionized baristas by Starbucks. SBWU's baristas are fighting to win workplace protections on core issues like respect, living wages, racial and gender equity, and fair scheduling. Stand with them, and donate to their strike fund if you can!</p>
   </div>
