@@ -22,11 +22,12 @@ bluesky: &bluesky
   icon: "fa-brands fa-square-bluesky"
   url: "https://bsky.app/profile/southernnhdsa.bsky.social"
   username: blueskydsa
-
-discord: &discord
-  label: "Discord"
-  icon: "fa-brands fa-discord"
-  url: "https://discord.gg/kn6mqW2Gff"
+  
+## No longer used
+## discord: &discord
+##  label: "Discord"
+##  icon: "fa-brands fa-discord"
+##  url: "https://discord.gg/kn6mqW2Gff"
 
 email: &email
   label: "Email"
