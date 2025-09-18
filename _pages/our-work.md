@@ -14,7 +14,7 @@ permalink: /our-work/
   </div>
   <div class="column-image-cnt">
     <img
-      src="/assets/images/trans-clothing-swap-flyer.jpg"
+      src="/assets/images/trba-swap.png"
       alt="Trans Clothing Swap Poster with event details"
       class="responsive-image"
     >
