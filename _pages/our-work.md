@@ -33,6 +33,15 @@ Southern New Hampshire DSA fully supports the Avelo Boycott and calls on Avelo A
 Join us in calling on Avelo airlines to end the contract! Sign our petition to show your support as a resident and community member in New Hampshire that you will not stand for Avelo as they help split apart families, terrorize our communities, and do Trump’s dirty work!
 Sign here: <a href="https://actionnetwork.org/petitions/new-hampshire-says-boycott-avelo/">BOYCOTT AVELO</a>
  </p>
+  </div>
+  <div class="column-image-cnt">
+    <img
+      src="/assets/images/avelo-flyer.jpg"
+      alt="Avelo Airlines is making money through a contract with ICE. Boycott Avelo!"
+      class="responsive-image"
+    >
+  </div>
+</div>
 
 
 <div class="two-columns">
