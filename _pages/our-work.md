@@ -14,7 +14,7 @@ permalink: /our-work/
   </div>
   <div class="column-image-cnt">
     <img
-      src="/assets/images/trba-swap.png"
+      src="/assets/images/trba-swap.jpg"
       alt="Trans Clothing Swap Poster with event details"
       class="responsive-image"
     >
@@ -36,7 +36,7 @@ Sign here: <a href="https://actionnetwork.org/petitions/new-hampshire-says-boyco
   </div>
   <div class="column-image-cnt">
     <img      
-      src="/assets/images/boycott-banner.png"
+      src="/assets/images/boycott-banner.jpg"
       alt="Boycott Avelo Airlines! Sign our petition!"
       class="responsive-image"
     >
