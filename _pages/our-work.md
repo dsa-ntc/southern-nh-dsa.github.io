@@ -35,7 +35,10 @@ Sign here: <a href="https://actionnetwork.org/petitions/new-hampshire-says-boyco
  </p>
   </div>
   <div class="column-image-cnt">
-    <img
+    <img      
+      src="/assets/images/boycott-banner.png"
+      alt="Boycott Avelo Airlines! Sign our petition!"
+      class="responsive-image"
     >
   </div>
 </div>
