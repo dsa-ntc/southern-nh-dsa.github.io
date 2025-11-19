@@ -14,7 +14,7 @@ Our group is open to all comrades of the LGBTQ community and its allies. Our eve
 
 <h3>Trans Rights and Bodily Autonomy Working Group</h3>
 
-Dedicated to protecting healthcare access and protections for our trans population, our Trans Rights and Bodily Autonomy Working Group is always looking for help on how to meet people's needs
+Dedicated to protecting healthcare access and protections for our trans population, our Trans Rights and Bodily Autonomy Working Group is always looking for help on how to meet people's needs.
 
 <h3>Palestine Working Group</h3>
 
