@@ -18,7 +18,7 @@ Dedicated to protecting healthcare access and protections for our trans populati
 
 <h3>Palestine Working Group</h3>
 
-Our newest working group, the Palestine working group is dedicated to showing solidarity to the Palestinian people in a state rife with companies that make millions of dollars on their destruction.
+Our newest working group, the Palestine working group is dedicated to showing solidarity to the Palestinian people in a state rife with companies that make millions of dollars off their destruction.
 
 <h3>Immigration Rights Working Group</h3>
 
