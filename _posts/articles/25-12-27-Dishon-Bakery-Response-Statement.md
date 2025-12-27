@@ -7,8 +7,6 @@ tags: dishon bakery boycott immigration Palestine liberation
 short_description: Our response to the media's framing of our boycott and an explanation of why we did it
 ---
 ![][image1]
-# **Official Statement**
-
 **Dishon Bakery Boycott: What the Media Left Out**
 
 Last weekend, our chapter took action related to the ongoing genocide in Palestine. From Manchester to Gaza, we must all come together to demand justice. Yes, this action made people uncomfortable, but that discomfort is part of the point. If the Langs have willingly participated in a violent colonial venture, and then make no effort to account for it – or to publicly disavow it – it’s reasonable to ask why they should get to feel at peace every day while Palestinians live through a genocide and face fear, grief, displacement, and death on a daily basis. All we ask for is accountability. The Langs do not have to continue to proudly display the propaganda they’ve helped produce on professional websites. They can say that the genocide is happening and is wrong.
