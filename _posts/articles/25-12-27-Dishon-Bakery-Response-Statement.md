@@ -6,7 +6,7 @@ permalink: statements/dishon-bakery-statement/
 tags: dishon bakery boycott immigration Palestine liberation
 short_description: Our response to the media's framing of our boycott and an explanation of why we did it
 ---
-![][image1]
+![][image1] <br>
 
 **Dishon Bakery Boycott: What the Media Left Out**
 
