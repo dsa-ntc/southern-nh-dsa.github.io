@@ -4,18 +4,18 @@ title: "Bylaws of Southern New Hampshire Democratic Socialists of America"
 permalink: /bylaws/
 ---
 
-### Article I. Name
+## Article I. Name
 
 **Section 1.** The name of the chapter shall be Southern New Hampshire Democratic Socialists of America, hereafter referred to as “SNH DSA.” SNH DSA shall be a not-for-profit corporation.
 
-### Article II. Purpose
+## Article II. Purpose
 
 **Section 1.** The purpose of SNH DSA shall be to promote and advance economic and cultural changes which shift society towards a democratic socialist model, in which the means of production are socially owned and controlled and the abolition of the class system.
 
 **Section 2.** SNH DSA shall participate in activities such as, but not limited to, campaigns, membership drives, protests, social engagements, and work community assistance following the models of mutual aid.
 
 
-### Article III. Membership
+## Article III. Membership
 
 **Section 1.** Membership in SNH DSA is available to DSA members whose dues are paid in full and reside or work in or near Rockingham, Strafford, Hillsborough, Merrimack, or Cheshire counties. SNH DSA members may not belong to another DSA chapter, with the exception of DSA organizing committees and YDSA chapters.
 
@@ -37,13 +37,13 @@ permalink: /bylaws/
 
 **Section 7.** SNH DSA shall establish a system of voluntary pledges for its membership. Pledges shall only be solicited after the creation, presentation and adoption of an annual chapter budget. The payment of an SNH DSA donation or pledge may not be a requirement for voting in SNH DSA or holding office within the chapter.
 
-### Article IV. Meetings
+## Article IV. Meetings
 
 **Section 1.** SNH DSA shall hold at minimum one (1) general meeting every month which shall be open to all SNH DSA members. Additional meetings shall be held either with approval of the membership at a prior meeting, or called by the steering committee on an emergency basis. The SNH DSA steering committee will circulate an agenda in advance of every general meeting, as well as for every emergency meeting called by the steering committee.
 
 **Section 2.** SNH DSA shall hold one (1) Annual meeting per year. The date of the annual meeting must occur on or before March 31st of any given year. The business of the annual meeting shall include as part of its programming the election of SNH DSA steering committee officers and the approval of an annual budget.
 
-### Article V. Officers and Elections
+## Article V. Officers and Elections
 
 **Section 1.** SNH DSA members shall elect three (3) chapter officers, following Article 4, Section 2 of these bylaws. These officers shall consist of one chair, one (1) secretary, and one (1) treasurer. The Steering Committee shall be considered a committee of equals with no individual member having final say over chapter decisions. These members shall make up the steering committee of SNH DSA which shall consist of three (3) SNH DSA members in good standing, elected at the Annual meeting, with a term that expires at the beginning of the next Annual meeting. Nominations for chapter officers shall be received by the outgoing steering committee no sooner than four (4) weeks and no later than two (2) weeks before an annual meeting. Members shall either be nominated for chapter officer position by an SNH DSA member in good standing, or by themselves if they are an SNH DSA member in good standing. Upon receipt of a nomination request the outgoing steering committee must solicit the chapter membership for at least one (1) other member in good standing to endorse the nomination, after which the candidate shall be added to the ballot at the following annual meeting.
 
@@ -79,21 +79,21 @@ f) establishing a trustee of the funds.
 
 **Section 9.** Any SNH DSA officer may be recalled for malfeasance or nonfeasance of their duties or responsibilities as an officer. In order to recall an officer a SNH DSA member in good standing must submit a petition bearing the signatures of 5% of chapter members in good standing to the SNH DSA steering committee, which will set the date of an SNH DSA meeting to deliberate on the removal request. The accused officer shall be given two (2) weeks written notice of their removal in advance of the aforementioned meeting, which shall include the specific reasons made for the officer’s removal. At the meeting the accused officer shall be allowed to defend themselves. A removal vote shall take place at that meeting via a ⅔ majority vote of SNH DSA members in good standing present at the meeting.
 
-### Article VI. Resolutions
+## Article VI. Resolutions
 Any member in good standing may bring forward a resolution to a chapter General Meeting to be voted upon by membership. In order for a resolution to be considered for voting, the resolution must be endorsed by at least three (3) chapter members in good standing in addition to at least one (1) author. The resolution must then be submitted to the Steering Committee through an official channel such as the chapter email or proposals channel at least two (2) weeks in advance of a General Meeting. Resolutions which are not submitted in time for a General Meeting may be considered for the next General Meeting.
 
 Resolutions may be rejected by the Steering Committee if the resolution contradicts or is prohibited by the chapter’s or national organization’s bylaws
 
-### Article VII. Internal Bodies
+## Article VII. Internal Bodies
 
-## **Section 1. Definition of Internal Bodies**
+### **Section 1. Definition of Internal Bodies**
 
 Internal Bodies of the Local Chapter shall consist of Committees and Working Groups. All Internal Bodies should serve the Local Chapter in a meaningful way, help advance our goals within Southern New Hampshire, and ultimately, accept the following standards to maintain accountability and reasonable oversight. All Internal Bodies are ultimately answerable to the general membership.
 
 **Section 1.2 Annual Reestablishment**
 Committees and Working Groups not enumerated in these bylaws, will be reestablished by majority vote at each Annual Meeting. Committees and Working Groups must present a charter to be considered for reestablishment at the Annual Meeting.
 
-## **Section 2. Committees** 
+### **Section 2. Committees** 
 A Committee is a group within the Local Chapter that is tasked with carrying out an internal function for the Chapter. Ratification of these Bylaws will establish the following committees:
 Communications Committee
 Membership Committee
@@ -115,7 +115,7 @@ The Fundraising Committee shall consist of the SNHDSA Treasurer, serving as Ex-O
 The Membership Committee shall consist of the SNHDSA Secretary serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Membership Committee will be responsible for engaging and growing the membership of SNHDSA through activities such as, but not limited to, phonebanks, textbanks, tabling, and assisting the Secretary in their maintenance of the SNHDSA membership list. The Membership Committee shall maintain a new member onboarding process to acclimate new SNHDSA members to the chapter. The Membership Committee Chair will coordinate with the Steering Committee to direct SNHDSA members to needed initiatives and assist with promotion of chapter activities. 
 The Communications Committee shall consist of the Chairperson serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Communications Committee shall be responsible for the writing and dissemination of a semi-regular chapter bulletin to be delivered at minimum over email, the maintenance of our SNHDSA Action Network activities, assisting the Chairperson in their responsibilities handling SNHDSA social media, as well as managing communications, inquiries, as well as fostering and growing relationships with local media, press, and comrade organizations. The Ex-Officio Presiding Officers shall have the authority to delegate the position of Committee Chair for their respective Committee to a member in good standing provided the following conditions are met: A) that the work of the committee can be reasonably expected to continue as normal, and B) that the Ex-Officio Presiding Officer is able to provide adequate oversight to the committee and step in when necessary. If a Presiding Officer is found to be in violation of these agreed upon standards and responsibilities, and does not appoint a member in good standing to the Committee Chair position, through a two-thirds (2/3) vote the Steering Committee can simultaneously recall the Ex-Officio Presiding Officer from their respective Committee Chair position, and appoint a new Committee Chair.
 
-## **Section 3. Working Groups** 
+### **Section 3. Working Groups** 
 A Working Group is a group of members that associate due to a shared interest or external goal that requires community engagement. Working Groups may be established for the purpose of initial, exploratory, and educational activities relevant to the aims of the Local and the purview of the Working Group, such as pilot programs, specific political education, and research activities. Working groups will be defined as issue-based (e.g., labor) or identity-based (e.g., queer socialists). 
 Working Groups may be created by a vote of the General Membership at a General Meeting by way of passing a resolution. The resolution must describe an area of work that is not currently within the jurisdiction of another Internal Body of the Local, that is related to the purposes of the Local, and provide a detailed charter for the proposed Working Group. The resolution must identify one chair of the Working Group.
 The Working Group will be responsible for communicating with the Steering Committee about the activities and business of the Working Group. The Chapter Secretary will keep a regularly-updated list of recognized Working Groups and ensure the website is up-to-date with them. Working Groups may be dissolved by a vote of General Membership at a General Meeting of the Local Chapter if either General Membership or the Steering Committee finds the Working Group to be defunct, to have failed to conduct its internal affairs according to SNHDSA bylaws, or to have acted in violation of formally adopted resolutions or policies of SNHDSA. Working Groups inactive for three (3) consecutive months shall be considered formally defunct. If a Working Group is found to be defunct, the Steering Committee will schedule a vote for dissolution at the next available General Meeting and notify the General Membership.
@@ -130,7 +130,7 @@ Working Groups cannot endorse events or individuals, publish statements, or offi
 Working Groups will be led by at least one (1) chair while Working Group membership does not surpass twelve (12) active members. Working Groups will be led by no more than two (2) Co-Chairs while Working Group membership does surpass twelve (12) active members. Working Groups are responsible for electing their own chair(s) with a vote of the Working Group’s membership. If one or both co-chair slots are unable to be filled for over three months, the working group will be automatically dissolved.
 To be renewed, following a successful renewal vote at an Annual Convention, Working Groups must file a report with the Secretary relating the Working Group’s activities over the prior year.
 
-## **Section 4. General Provisions** 
+### **Section 4. General Provisions** 
 All Internal Bodies must maintain membership rolls and provide them to the Chapter Secretary at least once per calendar quarter. Internal Bodies shall be guaranteed reasonable use of Chapter meeting spaces and basic support from the Communications and Membership Committees.
 
 ## Article VIII. Rules
