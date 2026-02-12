@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Statement on Violation of Venezuela's Sovreignty"
+title: "Statement on Violation of Venezuela's Sovereignty"
 blog_author: "Patti C and Vicki N"
 permalink: statements/snh-dsa-venezuela-statement/
-tags: Venezuela international aggression sovreignty bolivarian statement 
+tags: Venezuela international aggression sovereignty bolivarian statement 
 short_description: The Trump Admin's attack on Venezuela is an act of imperial aggression that will only harm countless lives in the country.
 ---
 
