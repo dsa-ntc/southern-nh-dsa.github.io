@@ -27,7 +27,7 @@ permalink: /calendar/
           height: "auto",
           googleCalendarApiKey: "{{ site.google.calendar.api_key }}",
           events: {
-            googleCalendarId: '23a7d9803d27c7e98215e420fd4f8e5e62f4a017673c1a3d3b940801b0c27ec7@group.calendar.google.com'
+            googleCalendarId: 'c_69d2c2e74816c2787c3848d7b1fa18a34fa6003ca7dd836ce92d8245f59e82b5@group.calendar.google.com'
           },
           eventColor: '#F4797E',
         });
