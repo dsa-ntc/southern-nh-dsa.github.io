@@ -52,14 +52,11 @@ At the end of the investigative period the members of the ad-hoc grievance commi
 ### Section 7.4
 Any expelled SNHDSA member may appeal their expulsion to the National Political Committee of DSA.
 
-[//]: # (### Section 6)
+### Section 8
+Members may resign from SNHDSA at any time.
 
-[//]: # (Members may resign from SNHDSA at any time.)
-
-[//]: # ()
-[//]: # (### Section 7)
-
-[//]: # (SNHDSA shall be allowed to establish a system of voluntary pledges for its membership. Pledges shall only be solicited after the creation, presentation and adoption of an annual chapter budget. The payment of an SNHDSA donation or pledge may not be a requirement for voting in SNHDSA or holding office within the chapter.)
+### Section 9
+SNHDSA shall be allowed to establish a system of voluntary pledges for its membership. Pledges shall only be solicited after the creation, presentation and adoption of an annual chapter budget. The payment of an SNHDSA donation or pledge may not be a requirement for voting in SNHDSA or holding office within the chapter.
 
 ## Article IV. Meetings
 
