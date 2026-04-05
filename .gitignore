@@ -28,3 +28,4 @@ package-lock.json
 # Editor generated files
 .vscode
 *.swp
+/.idea/
