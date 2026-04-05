@@ -2,7 +2,7 @@
 
 layout: post
 
-title: SNH DSA’s Statement On HB1442
+title: SNHDSA’s Statement On HB1442
 
 blog\_author: Dani S
 

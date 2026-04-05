@@ -30,7 +30,7 @@ The Communications Committee is responsible for overseeing the chapter's social 
 
 <h3>Membership Committee</h3>
 
-The Membership Committee focuses on organizing and engaging SNH DSA members. The committee handles member education, roster management, and social event planning. It also coordinates with other committees to direct members to activities and projects that align with their interests.
+The Membership Committee focuses on organizing and engaging SNHDSA members. The committee handles member education, roster management, and social event planning. It also coordinates with other committees to direct members to activities and projects that align with their interests.
 
 <h3>Fundraising Committee</h3>
 
