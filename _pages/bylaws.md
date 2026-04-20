@@ -23,7 +23,7 @@ SNHDSA shall participate in activities such as, but not limited to, campaigns, m
 ## Article III. Membership
 
 ### Section 1. Qualifications
-Membership in SNHDSA is available to DSA members whose dues are paid in full and reside or hole employment in or near Rockingham, Strafford, Hillsborough, Merrimack, or Cheshire counties. SNHDSA members may not belong to another DSA chapter, with the exception of DSA organizing committees and YDSA chapters.
+Membership in SNHDSA is available to DSA members whose dues are paid in full and reside or hold employment in or near Rockingham, Strafford, Hillsborough, Merrimack, or Cheshire counties. SNHDSA members may not belong to another DSA chapter, with the exception of DSA organizing committees and YDSA chapters.
 
 ### Section 2. Dues
 DSA dues must be paid to the national office for membership in SNHDSA. Individuals may not be members of SNHDSA without being members of national DSA
