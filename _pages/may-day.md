@@ -6,7 +6,7 @@ permalink: /may-day/
 
 <h2 style="background: red; color: white; text-align: center; padding: 10px;">Join Us on May 1st</h2>
 
-<h1 style="background: black; color: white; text-align: center; padding: 10px;">LIVE MUSIC &bull; UNION &bull; POWER GUEST &bull; SPEAKERS</h1>
+<h1 style="background: black; color: white; text-align: center; padding: 10px;">LIVE MUSIC &bull; UNION POWER &bull; GUEST SPEAKERS</h1>
 
 ## Veteran’s Memorial Park, Manchester, NH
 ## 5 to 9 PM
