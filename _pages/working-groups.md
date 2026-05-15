@@ -12,7 +12,7 @@ We engage in activism against the cruel deportations of our working class neighb
 
 We are focused on opposing U.S. imperialism in all its forms. We believe in diplomacy over interventionism, anti-Zionism, anti-militarism, and principled internationalism that prioritizes the working class of the world. 
 
-Through protests, press events, and grassroots direct actions, educating employees at businesses of interest, and inviting the general public into our movement, we work to bring an end to U.S. Imperialism.
+Through protests, press events, grassroots direct actions, educating employees at businesses of interest, and inviting the general public into our movement, we work to bring an end to U.S. Imperialism.
 
 <h3>Housing Working Group</h3>
 
