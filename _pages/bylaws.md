@@ -40,11 +40,13 @@ In an attempt to pursue serious party building, Members are considered “eligib
 ### Section 6. Adherence to Organizational Principles
 All members of SNHDSA are expected to adhere to the Code of Conduct from the DSA national organization at all times. Members are encouraged to maintain an openness about their affiliations with outside organizations in an attempt to maintain good faith debate within the chapter.
 
-### Section 7.1 Expulsion
-Members may be expelled from SNHDSA if they are found to be in substantial disagreement with the principles of democratic socialism, or if they are found to be engaging in undemocratic or disruptive behavior, or found to be consistently operating in bad faith within SNHDSA.
+### Section 7. Grievance Policy and Expulsion
 
-### Section 7.2
-For this expulsion process to begin, an SNHDSA member must bring written charges to the SNHDSA Steering Committee, who will examine and appoint no fewer than two (2) members as an ad-hoc grievance committee to investigate the nature of the grievance. The investigation of the ad-hoc grievance committee shall take no longer than two weeks, and the member in question shall be allowed to receive a copy of the written charges, and allowed to present their case to the ad-hoc grievance committee.
+### Section 7.1 Expulsion
+Members may be expelled from SNHDSA if they are found to be in substantial disagreement with the principles of democratic socialism, or if they are found to be engaging in undemocratic or disruptive behavior, or found to be consistently operating in bad faith within SNHDSA. Any political disagreement must be an open case, as written in the National DSA Unified Grievance Policy.
+
+### Section 7.2 Grievance Policy
+SNHDSA follows the Unified Grievance Policy as defined by the National DSA. All grievance cases, including expulsion, must adhere to the Unified Grievance Policy.
 
 ### Section 7.3
 At the end of the investigative period the members of the ad-hoc grievance committee shall report their findings to the steering committee at either a regular steering committee meeting or an emergency steering committee meeting, including a recommendation to either expel or not expel which is justified by the findings of the ad-hoc grievance committee. At this meeting the steering committee may vote to expel the member by a ⅔ vote of the steering committee.
@@ -63,6 +65,8 @@ SNHDSA shall be allowed to establish a system of voluntary pledges for its membe
 ### Section 1
 SNHDSA shall hold at minimum one (1) general meeting every month which shall be open to all SNHDSA members. Additional meetings shall be held either with approval of the membership at a prior meeting, or called by the steering committee on an emergency basis. The SNHDSA steering committee will circulate an agenda in advance of every general meeting, as well as for every emergency meeting called by the steering committee.
 
+A quorum of 5% of the chapter’s membership, specifically Members in Good Standing, will be required in order to have any decisions made at the General Meeting binding upon the chapter.
+
 ### Section 2
 SNHDSA shall hold one (1) Annual meeting per year. The date of the annual meeting must occur on or before March 31st of any given year. The business of the annual meeting shall include as part of its programming the election of SNHDSA steering committee officers and the approval of an annual budget.
 
@@ -75,7 +79,7 @@ SNHDSA members shall elect five (5) chapter officers, following Article 4, Secti
 All SNHDSA officers shall adhere to the conflict of interest policy outlined in the national DSA Code of Conduct Section C, Item 3.
 
 ### Section 3
-Elections for chapter secretary, treasurer and at-large chapter officer shall be conducted via instant-runoff voting, while the election for the two co-chairs shall be conducted via Scottish Single Transferable Vote.
+Elections shall be conducted via instant-runoff voting for any office which can be only occupied by one person, while elections where multiple people can be elected to the same position, i.e. through a slate, shall be conducted via Scottish Single Transferable Vote. No member may vote for chapter officers if they have not been a Member in Good Standing for at least 30 days. All elections must be handled by an impartial Election Commission tasked with creating the ballots, counting the votes, and delivering the results. The Election Commission may not have any members who are running in an election they are tasked with handling.
 
 ### Section 4
 The responsibilities of the Co-Chairs shall be:
@@ -111,6 +115,11 @@ SNHDSA officers may resign their position at any time by submitting written noti
 
 ### Section 10
 Any SNHDSA officer may be recalled for malfeasance or nonfeasance of their duties or responsibilities as an officer. In order to recall an officer a SNHDSA member in good standing must submit a petition bearing the signatures of 5% of chapter members in good standing to the SNHDSA steering committee, which will set the date of an SNHDSA meeting to deliberate on the removal request. The accused officer shall be given two (2) weeks written notice of their removal in advance of the aforementioned meeting, which shall include the specific reasons made for the officer’s removal. At the meeting the accused officer shall be allowed to defend themselves. A removal vote shall take place at that meeting via a ⅔ majority vote of SNHDSA members in good standing present at the meeting.
+
+### Section 11
+Delegates for DSA National Convention shall be elected by the chapter at the Annual Meeting using Scottish Transferable Voting (STV) in all cases. A General Meeting may be used in the case where the election must be re-contested. 
+
+No member may vote in Delegate Elections if they have not been a Member in Good Standing for at least 30 days.
 
 ## Article VI. Resolutions
 
@@ -165,7 +174,7 @@ A Working Group is a group of members that associate due to a shared interest or
 Working Groups will be guaranteed reasonable use of physical and virtual meeting spaces operated by the Local (e.g., a Zoom account or an office), and shall further be entitled to basic support from the Communications and Membership Committees (at the discretion of those Committees and their Chairs). Working Groups may submit requests for limited Membership Data, (i.e. names, phone numbers, general location) to the Secretary. Additional privileges, such as access to social media, and access to phone bank and text bank lists, are subject to approval by the Steering Committee and may be revoked. Working Groups cannot endorse events or individuals, publish statements, or officially participate in campaigns without approval from the General Body through a majority vote at a General Meeting. In cases where a membership vote would be untimely or otherwise inopportune, the Steering Committee is permitted to vote for approval in place of the General Body. In such matters where a member of the Steering Committee is leading the Working Group, said member should recuse themselves from the vote, and if the Steering Committee cannot come to a consensus the vote shall be given to the General Body.
 
 ### Section 4.2 Working Group Leadership
-Working Groups will be led by at least one (1) chair while Working Group membership does not surpass twelve (12) active members. Working Groups will be led by no more than two (2) Co-Chairs while Working Group membership does surpass twelve (12) active members. Working Groups are responsible for electing their own chair(s) with a vote of the Working Group’s membership. If one or both co-chair slots are unable to be filled for over three months, the working group will be automatically dissolved. To be renewed, following a successful renewal vote at an Annual Convention, Working Groups must file a report with the Secretary relating the Working Group’s activities over the prior year.
+Working Groups will be led by at least one (1) chair while Working Group membership does not surpass twelve (12) active members. Working Groups will be led by no more than two (2) Co-Chairs while Working Group membership does surpass twelve (12) active members. Working Groups are responsible for electing their own chair(s) with a vote of the Working Group’s membership. If one or both co-chair slots are unable to be filled for over three months, the working group will be automatically dissolved. To be renewed, following a successful renewal vote at an Annual Convention, Working Groups must file quarterly reports with the Secretary relating the Working Group’s activities over the course of the calendar year.
 
 ### Section 5. Branches
 ### Section 5.1 Definition
@@ -191,7 +200,7 @@ All Internal Bodies must maintain membership rolls and provide them to the Chapt
 ## Article VIII. Rules
 
 ### Section 1
-The Rules contained in Robert’s Rules of Order, Newly Revised, shall govern this Local Chapter in cases to which they are applicable and in which they are not inconsistent with these Bylaws. Consensus decision-making is desirable where feasible, but meetings must submit to Robert’s Rules of Order, Newly Revised upon the request of a member.
+The Rules contained in Robert’s Rules of Order, Newly Revised, shall govern this Local Chapter in cases to which they are applicable and in which they are not inconsistent with these Bylaws.
 
 ### Section 2
 Any action taken by an officer or member of the Local Chapter in contravention of these Bylaws is null and void.
