@@ -22,7 +22,7 @@ bluesky: &bluesky
   icon: "fa-brands fa-square-bluesky"
   url: "https://bsky.app/profile/southernnhdsa.bsky.social"
   username: blueskydsa
-  
+
 ## No longer used
 ## discord: &discord
 ##  label: "Discord"
@@ -32,8 +32,8 @@ bluesky: &bluesky
 email: &email
   label: "Email"
   icon: "fa-solid fa-envelope"
-  url: "mailto:southernnhdsa@proton.me"
-  address: "southernnhdsa@proton.me"
+  url: "mailto:steering@nhdsa.org"
+  address: "steering@nhdsa.org"
 
 # We use the above links in different combinations in
 # different places in the site. Making lists in the manner
