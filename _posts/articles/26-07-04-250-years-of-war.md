@@ -10,6 +10,7 @@ short_description: "Our official statement for the 250th anniversary of the Unit
 ![image](/assets/images/socialism_wins.png)
 
 *“On the whole, capitalism is growing far more rapidly than before; but this growth is not only becoming more and more uneven in general, its unevenness also manifests itself, in particular, in the decay of the countries which are richest in capital.”*
+
 -Vladimir Lenin
 
 On this 250th anniversary of the United States of America, we would like to recognize the unfinished struggle for liberation of our Black and Indigenous compatriots. The War for Independence represents a total victory for the ascending ruling class of the 1700s. The new merchant class which was able to wrestle control from the stodgy monarchy of England called for equal rights among all men while owning slaves and relegating women and other non-landowning Europeans to second class citizens, if citizens at all.
@@ -27,4 +28,5 @@ We, the working class, cannot allow our solidarity to be bound by borders, creed
 In solidarity,
 
 Patience C & David V
+
 SNHDSA Co-Chairs
