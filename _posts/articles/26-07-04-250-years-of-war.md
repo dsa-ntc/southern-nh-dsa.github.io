@@ -13,6 +13,7 @@ short_description: "Our official statement for the 250th anniversary of the Unit
 
 ***-Vladimir Lenin***
 
+
 On this 250th anniversary of the United States of America, we would like to recognize the unfinished struggle for liberation of our Black and Indigenous compatriots. The War for Independence represents a total victory for the ascending ruling class of the 1700s. The new merchant class which was able to wrestle control from the stodgy monarchy of England called for equal rights among all men while owning slaves and relegating women and other non-landowning Europeans to second class citizens, if citizens at all.
 
 In New Hampshire, it is not uncommon for many of us to celebrate the revolutionary ideals contained within 1776’s Declaration of Independence. We too, celebrate many of those ideals, but we must recognize, and contend with, the fact that we live in a severely undemocratic society where an affluent business class makes the vast majority of decisions in our country. We must finish Reconstruction and move towards a society that our Founding Fathers denied us. A society where democracy truly reigns under the principles of universal and equal suffrage.
@@ -28,4 +29,5 @@ We, the working class, cannot allow our solidarity to be bound by borders, creed
 In solidarity,
 
 Patience C & David V
+
 SNHDSA Co-Chairs
