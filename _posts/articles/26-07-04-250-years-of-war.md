@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "250 Years of War: True Emancipation and the Working Class"
-blog_author: Patience C, David V
+blog_author: Patience C & David V
 permalink: /july-4th-and-250-years-of-war/
 tag: [independence, war, 4th of July, 250th Anniversary, American Revolution]
 short_description: "Our official statement for the 250th anniversary of the United States of America"
