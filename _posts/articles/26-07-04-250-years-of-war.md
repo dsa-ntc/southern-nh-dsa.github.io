@@ -27,5 +27,5 @@ We, the working class, cannot allow our solidarity to be bound by borders, creed
 
 In solidarity,
 
-Patience C & David V/
+Patience C & David V
 SNHDSA Co-Chairs
