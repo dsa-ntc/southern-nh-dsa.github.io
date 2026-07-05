@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Boycott Dishon Bakery?
-blog_author: Patti C
+blog_author: Palestine Working Group
 permalink: statements/dishon-bakery-statement/
 tags: dishon bakery boycott immigration Palestine liberation
 short_description: Our response to the media's framing of our boycott and an explanation of why we did it
