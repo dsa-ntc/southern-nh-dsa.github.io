@@ -27,13 +27,13 @@ This is another regime-change war to steal another country’s oil, just like th
 
 DSA demands:
 
-* a return of President Nicolás Maduro and First Lady Cilia Flores to Venezuela  
-* an immediate end to the war and an end to all US military violence against Venezuela  
-* a total withdrawal of all US warships, fighter jets, and military assets from the Caribbean and an end to any operations with intervention purposes driven by SOUTHCOM  
-* an end to the illegal unilateral sanctions against Venezuela, and the end to the use of unilateral sanctions anywhere in the world, which [kill an estimated half a million people every year worldwide](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X\(25\)00189-5/fulltext)  
-* an end to the failed “war on drugs” framework that has already led to massive human and environmental tragedies in countries such as [Colombia](https://upsidedownworld.org/archives/mexico/beyond-ayotzinapa-how-us-intervention-in-colombia-paved-the-way-for-mexicos-human-rights-crisis/) and Mexico  
-* the restoration of diplomatic relations with the Bolivarian Republic of Venezuela, including the reopening of the embassy and consular offices in US territory  
-* a US foreign policy centered on peace, multilateralism, and respect for national sovereignty and self-determination
+* 1) a return of President Nicolás Maduro and First Lady Cilia Flores to Venezuela  
+* 2) an immediate end to the war and an end to all US military violence against Venezuela  
+* 3) a total withdrawal of all US warships, fighter jets, and military assets from the Caribbean and an end to any operations with intervention purposes driven by SOUTHCOM  
+* 4) an end to the illegal unilateral sanctions against Venezuela, and the end to the use of unilateral sanctions anywhere in the world, which [kill an estimated half a million people every year worldwide](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X\(25\)00189-5/fulltext)  
+* 5) an end to the failed “war on drugs” framework that has already led to massive human and environmental tragedies in countries such as [Colombia](https://upsidedownworld.org/archives/mexico/beyond-ayotzinapa-how-us-intervention-in-colombia-paved-the-way-for-mexicos-human-rights-crisis/) and Mexico  
+* 6) the restoration of diplomatic relations with the Bolivarian Republic of Venezuela, including the reopening of the embassy and consular offices in US territory  
+* 7) a US foreign policy centered on peace, multilateralism, and respect for national sovereignty and self-determination
 
 Long live the Bolivarian Revolution,
 
